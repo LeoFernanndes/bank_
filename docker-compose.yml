@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+  front:
+    image: node:12
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./front/:/usr/app/front
+    working_dir: /usr/app/front
+    command: 'npm start'
+    depends_on:
+      - mysql
+
+  # api:
+  #   image: node:12
+  #   ports:
+  #     - '3333:3333'
+  #   volumes:
+  #     - ./api/:/usr/app/api
+  #   working_dir: /usr/app/api
+  #   command: 'npm start'
+  #   depends_on:
+  #     - mysql
+  
+  mysql:
+    restart: always
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: 'password'
+      MYSQL_USER: 'test'
+      MYSQL_PASS: 'pass'
+    volumes:
+      - ./database/mysql-data:/var/lib/mysql
+    ports:
+      - "3306:3306"
