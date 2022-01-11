@@ -1,27 +1,29 @@
 version: '3'
 
 services:
-  front:
-    image: node:12
-    ports:
-      - '3000:3000'
-    volumes:
-      - ./front/:/usr/app/front
-    working_dir: /usr/app/front
-    command: 'npm start'
-    depends_on:
-      - mysql
-
-  # api:
+  # front:
   #   image: node:12
   #   ports:
-  #     - '3333:3333'
+  #     - '3000:3000'
   #   volumes:
-  #     - ./api/:/usr/app/api
-  #   working_dir: /usr/app/api
+  #     - ./front/:/usr/app/front
+  #   working_dir: /usr/app/front
   #   command: 'npm start'
   #   depends_on:
   #     - mysql
+
+  api:
+    build:
+      context: ./api
+      dockerfile: ./Dockerfile
+    ports:
+      - '3000'
+    volumes:
+      - ./api/:/usr/app/api
+    depends_on:
+      - mysql
+    networks:
+      - nginx_network
   
   mysql:
     restart: always
@@ -34,3 +36,22 @@ services:
       - ./database/mysql-data:/var/lib/mysql
     ports:
       - "3306:3306"
+    networks:
+      - nginx_network
+
+  nginx:
+    image: nginx:1.15-alpine
+    restart: unless-stopped
+    volumes:
+      - ./nginx/conf.d/:/etc/nginx/conf.d
+      - ./nginx/logs/:/var/log/nginx/
+    ports:
+      - 80:80
+    networks:
+      - nginx_network
+    depends_on:
+      - api
+
+networks:
+  nginx_network:
+    driver: bridge

